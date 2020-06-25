@@ -1,0 +1,12 @@
+.button {
+  border-color: #28546a;
+  background-color: #28546a;
+  text-transform: uppercase;
+  border-radius: 1px;
+  border-width: 2px;
+  color: white;
+}
+
+.table {
+  margin-top: 30px;
+}

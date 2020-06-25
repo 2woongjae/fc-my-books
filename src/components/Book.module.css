@@ -1,0 +1,56 @@
+.book {
+  display: table;
+  overflow: hidden;
+}
+
+.title {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.link_detail_title {
+  color: #0a222e;
+}
+
+.author {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.link_detail_author {
+  color: #28546a;
+}
+
+.created {
+  color: #999999;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
+.tooltips {
+  color: #999999;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
+.link_url {
+  font-size: 12px;
+}
+
+.button_url {
+  margin-right: 5px;
+}
+
+.button_edit {
+  margin-right: 5px;
+}
